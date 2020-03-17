@@ -1,0 +1,6 @@
+Brandon Tran
+CECS 424
+Claus Jurgensen
+February 8th 2020 
+Lab Assignment 1
+	My first impression when working on this assignment is that I noticed that the implementation for Quicksort and Mergesort is shorter in Haskell than it is in C. Haskell is known as a Functional Programming language and what I have learned is that is easier to understand if you continuously practice and understand the code. In C, there is simply no shortcuts to writing a sorting function. The next thing I learned when working on this assignment is that Haskell has a built-in memory management system. When working on the sorting algorithms in C, I needed to allocate dynamic memory from a heap by using a call to malloc while returning the storage to free the memory when it is not needed anymore. When implementing the sorting algorithms in Haskell, I learned that this functional language relieves us as programmers from storage management. The storage is allocated and initialized implicitly. Also, in the C language, it will be able to run in a small mount of memory, but the Haskell program will allocate a lot of extra memory.  In conclusion, Functional programming language are easier to write, maintain, and design, but it will offer less control over the machine. 
